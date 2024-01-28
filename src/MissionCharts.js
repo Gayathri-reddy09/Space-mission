@@ -1,5 +1,3 @@
-// MissionCharts.js
-
 import React from 'react';
 import { PieChart, Pie, BarChart, Bar, XAxis, YAxis, Tooltip, Legend } from 'recharts';
 
